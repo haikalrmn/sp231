@@ -4,3 +4,7 @@
 ZCZC W00 130 L02 ZOOM meetings related
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 300 L09 General W00 Assignment (Including reading and learning from external sources)
+
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 240 L05 Quiz W01 (Including learning awk syntaxes, regex, and bash programming)
+ZCZC W01 360 L09 General W01 Assignment (Including compile time, error-fixing, etc)
