@@ -8,3 +8,9 @@ ZCZC W00 300 L09 General W00 Assignment (Including reading and learning from ext
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 240 L05 Quiz W01 (Including learning awk syntaxes, regex, and bash programming)
 ZCZC W01 360 L09 General W01 Assignment (Including compile time, error-fixing, etc)
+
+ZCZC W02 120 L05 Quiz W02 (Learning and Creating Makefile)
+ZCZC W02 360 L09 General W02 Assignment (LFS Chapter 1 - 7, Compile time)
+
+ZCZC W03 120 L05 Quiz W03 (Fixing Grub takes quite a bit of time)
+ZCZC W03 390 L09 General W03 Assignment (Configuring FUSE, reading, trying out some demos and tools)
