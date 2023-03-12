@@ -14,3 +14,5 @@ ZCZC W02 360 L09 General W02 Assignment (LFS Chapter 1 - 7, Compile time)
 
 ZCZC W03 120 L05 Quiz W03 (Fixing Grub takes quite a bit of time)
 ZCZC W03 390 L09 General W03 Assignment (Configuring FUSE, reading, trying out some demos and tools)
+
+ZCZC W04 120 L05 Quiz W04
