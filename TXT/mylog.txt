@@ -16,3 +16,7 @@ ZCZC W03 120 L05 Quiz W03 (Fixing Grub takes quite a bit of time)
 ZCZC W03 390 L09 General W03 Assignment (Configuring FUSE, reading, trying out some demos and tools)
 
 ZCZC W04 120 L05 Quiz W04
+
+ZCZC W05 110 L02 Classroom related
+ZCZC W05  45 L05 Quiz W05
+ZCZC W05  45 L09 General W05 Assignment (Fixing unfinished bug from class)
