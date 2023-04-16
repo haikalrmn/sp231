@@ -24,3 +24,6 @@ ZCZC W05  45 L09 General W05 Assignment (Fixing unfinished bug from class)
 ZCZC W06  80 L02 Classroom related
 ZCZC W06 180 L05 Quiz W06
 ZCZC W06 120 L09 General W06 Assignment
+
+ZCZC W07 150 L02 Classroom, ZOOM meetings related
+ZCZC W07 180 L09 General W07 Assingment
